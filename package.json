@@ -1,0 +1,22 @@
+{
+  "name": "fake-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoJIHuUUKo/fake-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoJIHuUUKo/fake-api/issues"
+  },
+  "homepage": "https://github.com/CoJIHuUUKo/fake-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}

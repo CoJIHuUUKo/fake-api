@@ -1,0 +1,184 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Кирилл",
+      "lastName": "Бутов",
+      "avatar": "https://avatars.mds.yandex.net/i?id=8ad3e8224725984276b4c192da73a4192731a8c9-8448606-images-thumbs&n=13",
+      "age": 24,
+      "city": "Москва",
+      "contacts": "kirillbutov@bk.ru"
+    },
+    {
+      "id": 2,
+      "firstName": "Николай",
+      "lastName": "Голубцов",
+      "avatar": "https://avatars.mds.yandex.net/i?id=5d845e7289c058696757cf983672b66bb58191ad-9069255-images-thumbs&n=13",
+      "age": "24",
+      "city": "Нижний Новгород",
+      "contacts": 89999999999
+    },
+    {
+      "id": 3,
+      "firstName": "Екатерина",
+      "lastName": "Зебрина",
+      "avatar": "https://avatars.mds.yandex.net/i?id=dce1e3a1727dad9394f664e60dfcb87c5fe6c4d1-9182224-images-thumbs&n=13",
+      "age": 23,
+      "city": "Королев",
+      "contacts": "ekaterina.zebr@bk.ru"
+    },
+    {
+      "id": 4,
+      "firstName": "Марина",
+      "lastName": "Тюрина",
+      "avatar": "https://avatars.mds.yandex.net/i?id=d1916916719a09dd5025fe2495e7dec6933cb03c-9106685-images-thumbs&n=13",
+      "age": 24,
+      "city": "Нижний Новгород",
+      "contacts": "marina.tyr@mail.ru"
+    },
+    {
+      "id": 5,
+      "firstName": "Максим",
+      "lastName": "Квасков",
+      "avatar": "https://avatars.mds.yandex.net/i?id=9318ee1494bfbab49df2bf08946e4163912a171e-5644618-images-thumbs&n=13",
+      "age": 24,
+      "city": "Балашиха",
+      "contacts": "max.orex@rambler.ru"
+    },
+    {
+      "id": 6,
+      "firstName": "Елена",
+      "lastName": "Ганина",
+      "avatar": "https://avatars.mds.yandex.net/i?id=d78cea9f385a5a7cd7a8eae962715a347a49b48b-9065816-images-thumbs&n=13",
+      "age": 25,
+      "city": "Железнодорожный",
+      "contacts": 89200008883
+    },
+    {
+      "id": 7,
+      "firstName": "Антон",
+      "lastName": "Шибанов",
+      "avatar": "https://avatars.mds.yandex.net/i?id=a8b0ee1e73c04793332ba88b2a1cdd2ad0da82f9-8199312-images-thumbs&n=13",
+      "age": 22,
+      "city": "Нижний Новгород",
+      "contacts": "anton.antShib@yandex.ru"
+    },
+    {
+      "id": 8,
+      "firstName": "Дмитрий",
+      "lastName": "Сергеев",
+      "avatar": "https://avatars.mds.yandex.net/i?id=d09a7a1cd4a523bccd93d3f9a12aa1f0839d752a-8178604-images-thumbs&n=13",
+      "age": 37,
+      "city": "Саров",
+      "contacts": "dimka@rambler.ru"
+    },
+    {
+      "id": 9,
+      "firstName": "Илья",
+      "lastName": "Шалтаев",
+      "avatar": "https://avatars.mds.yandex.net/i?id=ca7a0c625e2f492d2129e21ab18e3ca9d1c5c5c1-7051630-images-thumbs&n=13",
+      "age": 24,
+      "city": "Кстово",
+      "contacts": "ilya.tankist@bk.ru"
+    },
+    {
+      "id": 10,
+      "firstName": "Артем",
+      "lastName": "Карпухов",
+      "avatar": "https://avatars.mds.yandex.net/i?id=e1ac6919223980f67e0f820da9d832e3ecea385e-8497013-images-thumbs&n=13",
+      "age": 24,
+      "city": "Москва",
+      "contacts": "artem.artKarp@gmail.ru"
+    },
+    {
+      "id": 11,
+      "firstName": "Светлана",
+      "lastName": "Сиван",
+      "avatar": "https://avatars.mds.yandex.net/i?id=60a3f853d02e040afcb3f0cda16477924c1fc037-9739761-images-thumbs&n=13",
+      "age": 22,
+      "city": "Арзамас",
+      "contacts": "svet.sunsivan@spaces.ru"
+    },
+    {
+      "id": 12,
+      "firstName": "Александр",
+      "lastName": "Долгов",
+      "avatar": "https://avatars.mds.yandex.net/i?id=e882c15e213a09bd8ac76cc51ddb30352ca64684-9128588-images-thumbs&n=13",
+      "age": 24,
+      "city": "Саров",
+      "contacts": "aleks.madagascarlion@bk.ru"
+    },
+    {
+      "id": 13,
+      "firstName": "Кирилл",
+      "lastName": "Мордвинов",
+      "avatar": "https://avatars.mds.yandex.net/i?id=b60699a44f614569d7506dd3d7efff6a771c991b-9161202-images-thumbs&n=13",
+      "age": 23,
+      "city": "Ульяновск",
+      "contacts": "kirik.kir.mordv@mail.ru"
+    },
+    {
+      "id": 14,
+      "firstName": "Кристина",
+      "lastName": "Зябликова",
+      "avatar": "https://avatars.mds.yandex.net/i?id=e1e94ff2e3020dbbcd6f19786494cbed69e62278-9213930-images-thumbs&n=13",
+      "age": 38,
+      "city": "Казань",
+      "contacts": 89200121212
+    },
+    {
+      "id": 15,
+      "firstName": "Сергей",
+      "lastName": "Пышный",
+      "avatar": "https://avatars.mds.yandex.net/i?id=aba49032827fbe4f8102e446f1639aa7439a2aa7-8376360-images-thumbs&n=13",
+      "age": 24,
+      "city": "Мухтолово",
+      "contacts": 89211200001
+    },
+    {
+      "id": 16,
+      "firstName": "Вадим",
+      "lastName": "Хисматов",
+      "avatar": "https://avatars.mds.yandex.net/i?id=59ce7af665303a140b51828f07970d0d2796a599-9065777-images-thumbs&n=13",
+      "age": 28,
+      "city": "Мисайлово",
+      "contacts": "vadim.hism.tnf@bk.ru"
+    },
+    {
+      "id": 17,
+      "firstName": "Сергей",
+      "lastName": "Трушин",
+      "avatar": "https://avatars.mds.yandex.net/i?id=6dacc83f88bdd36de70821966c852e97b37f2c79-9181622-images-thumbs&n=13",
+      "age": 35,
+      "city": "Саранск",
+      "contacts": "serg.trushin.tnf@bk.ru"
+    },
+    {
+      "id": 18,
+      "firstName": "Алексей",
+      "lastName": "Тимин",
+      "avatar": "https://avatars.mds.yandex.net/i?id=6e1a01ce22fc3566049dccf4640a0bb88a6e4e13-9242214-images-thumbs&n=13",
+      "age": 40,
+      "city": "Сочи",
+      "contacts": 89999999989
+    },
+    {
+      "id": 19,
+      "firstName": "Александр",
+      "lastName": "Марвин",
+      "avatar": "https://avatars.mds.yandex.net/i?id=5455a8ab5c4ba379f5b5e625dc1b04accf2e6ed9-9214225-images-thumbs&n=13",
+      "age": 24,
+      "city": "Москва",
+      "contacts": "aleks.nelionmadagascar@yandex.ru"
+    },
+    {
+      "id": 20,
+      "firstName": "Антон",
+      "lastName": "Попов",
+      "avatar": "https://avatars.mds.yandex.net/i?id=c1cf9a85cebb3c4dbdcbf98b7653b640a7be2a78-4818449-images-thumbs&n=13",
+      "age": 44,
+      "city": "Москва",
+      "contacts": 89222098988
+    }
+  ]
+}
